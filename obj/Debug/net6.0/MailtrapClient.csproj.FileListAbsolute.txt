@@ -1,0 +1,15 @@
+/Users/snkl/Documents/MailtrapClient/bin/Debug/net6.0/MailtrapClient
+/Users/snkl/Documents/MailtrapClient/bin/Debug/net6.0/MailtrapClient.deps.json
+/Users/snkl/Documents/MailtrapClient/bin/Debug/net6.0/MailtrapClient.runtimeconfig.json
+/Users/snkl/Documents/MailtrapClient/bin/Debug/net6.0/MailtrapClient.dll
+/Users/snkl/Documents/MailtrapClient/bin/Debug/net6.0/MailtrapClient.pdb
+/Users/snkl/Documents/MailtrapClient/obj/Debug/net6.0/MailtrapClient.csproj.AssemblyReference.cache
+/Users/snkl/Documents/MailtrapClient/obj/Debug/net6.0/MailtrapClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/snkl/Documents/MailtrapClient/obj/Debug/net6.0/MailtrapClient.AssemblyInfoInputs.cache
+/Users/snkl/Documents/MailtrapClient/obj/Debug/net6.0/MailtrapClient.AssemblyInfo.cs
+/Users/snkl/Documents/MailtrapClient/obj/Debug/net6.0/MailtrapClient.csproj.CoreCompileInputs.cache
+/Users/snkl/Documents/MailtrapClient/obj/Debug/net6.0/MailtrapClient.dll
+/Users/snkl/Documents/MailtrapClient/obj/Debug/net6.0/refint/MailtrapClient.dll
+/Users/snkl/Documents/MailtrapClient/obj/Debug/net6.0/MailtrapClient.pdb
+/Users/snkl/Documents/MailtrapClient/obj/Debug/net6.0/MailtrapClient.genruntimeconfig.cache
+/Users/snkl/Documents/MailtrapClient/obj/Debug/net6.0/ref/MailtrapClient.dll
